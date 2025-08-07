@@ -1,6 +1,6 @@
 # 🎓 OFA — IIT Jodhpur Companion App
 
-Welcome to **Campus Companion**, your all-in-one guide to navigating and thriving at **IIT Jodhpur**. Designed especially for freshers, this app combines smart tools with real-time data to help you explore campus, track attendance, find classrooms, and never miss a mess meal again — all from one place.
+Welcome to **One for all**, your all-in-one guide to navigating and thriving at **IIT Jodhpur**. Designed especially for freshers, this app combines smart tools with real-time data to help you explore campus, track attendance, find classrooms, and never miss a mess meal again — all from one place.
 
 ---
 
